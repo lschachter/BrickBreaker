@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a7331f5cc254242a8995e50836e6f215
+timeCreated: 1492316274
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - collisionSound: {instanceID: 0}
+  - brickBreakSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
